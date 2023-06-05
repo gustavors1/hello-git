@@ -1,0 +1,4 @@
+# New-Item -ItemType file .gitignore 
+#Comando para Windows 
+**/.DS_Store
+# Nomenclarutra para un archivo que se deba ignorar
